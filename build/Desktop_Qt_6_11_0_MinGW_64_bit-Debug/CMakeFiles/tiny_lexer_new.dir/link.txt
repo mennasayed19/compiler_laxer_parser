@@ -1,0 +1,3 @@
+E:\C++\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\tiny_lexer_new.dir/objects.a
+E:\C++\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\tiny_lexer_new.dir/objects.a @CMakeFiles\tiny_lexer_new.dir\objects1.rsp
+E:\C++\Tools\mingw1310_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\tiny_lexer_new.dir/objects.a -Wl,--no-whole-archive -o tiny_lexer_new.exe -Wl,--out-implib,libtiny_lexer_new.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\tiny_lexer_new.dir\linkLibs.rsp

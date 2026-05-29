@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-1be593397ab33df42b4a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "tiny_lexer_new",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "tiny_lexer_new::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tiny_lexer_new-Debug-9792702384aa45cabafe.json",
+					"name" : "tiny_lexer_new",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tiny_lexer_new_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tiny_lexer_new_autogen-Debug-b860d04a9b7326857a86.json",
+					"name" : "tiny_lexer_new_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tiny_lexer_new_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tiny_lexer_new_autogen_timestamp_deps-Debug-5544eacd4c2db259b190.json",
+					"name" : "tiny_lexer_new_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/M sayed/Documents/tiny_lexer_new/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/M sayed/Documents/tiny_lexer_new"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
